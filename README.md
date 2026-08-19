@@ -1,8 +1,13 @@
 # RAG Assistant for Academic Books
 
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+
 An advanced Retrieval-Augmented Generation (RAG) pipeline designed to extract insights and answer complex queries from academic textbooks, specifically focusing on economics and time series analysis. 
 
-Built with **LangChain**, **ChromaDB**, and **Groq** for ultra-fast, context-aware responses.
 
 ## Features
 - **Intelligent Retrieval:** Uses HuggingFace embeddings to accurately search through dense academic text.
